@@ -7,73 +7,73 @@
 ## Pages
 
 ### בית
-https://pet-store-eae3361c.zappy5.app
+https://example.com
 מחפשים חנות חיות עם גורים למכירה? ב-Pet store תמצאו מגוון ענק של ציוד, מזון וגורים מקסימים. כנסו עכשיו לחוויית קנייה מפנקת עבור החבר הכי טוב שלכם!
 
 ### אודות
-https://pet-store-eae3361c.zappy5.app/about
+https://example.com/about
 ב-Pet store אנחנו מאמינים שחיות מחמד הן משפחה. גלו את החזון שלנו, הצוות המסור והמחויבות לרווחת בעלי חיים. הצטרפו למסע של אהבה ודאגה לחבר הפרוותי שלכם!
 
 ### ערכים אקולוגיים
-https://pet-store-eae3361c.zappy5.app/eco-values
+https://example.com/eco-values
 ב-Pet store אכפת לנו מכדור הארץ. גלו את הערכים האקולוגיים שלנו: מוצרים מתכלים, אריזות ממוחזרות וצעצועים טבעיים. קנו באחריות והעניקו לחיית המחמד שלכם עולם ירוק יותר!
 
 ### שאלות נפוצות
-https://pet-store-eae3361c.zappy5.app/faq
+https://example.com/faq
 יש לכם שאלות על גורים, מזון או צעצועים? בדף השאלות הנפוצות של Pet store תמצאו מענה מהיר ומקצועי לכל מה שחשוב. היכנסו וגלו איך לפנק את חיית המחמד שלכם נכון!
 
 ### צור קשר
-https://pet-store-eae3361c.zappy5.app/contact
+https://example.com/contact
 רוצים להתייעץ, להזמין או סתם להגיד שלום? צרו קשר עם Pet store עוד היום! אנחנו זמינים בוואטסאפ, טלפון ומייל כדי לתת לכם את השירות הטוב ביותר. החיות שלכם יודו לכם!
 
 ### Products
-https://pet-store-eae3361c.zappy5.app/products
+https://example.com/products
 המוצרים שלנו - Pet store
 
 ### Cart
-https://pet-store-eae3361c.zappy5.app/cart
+https://example.com/cart
 עגלת הקניות שלך
 
 ### Checkout
-https://pet-store-eae3361c.zappy5.app/checkout
+https://example.com/checkout
 תשלום
 
 ### Login
-https://pet-store-eae3361c.zappy5.app/login
+https://example.com/login
 התחברות לקוחות
 
 ### Account
-https://pet-store-eae3361c.zappy5.app/account
+https://example.com/account
 החשבון שלי
 
 ### Order Success
-https://pet-store-eae3361c.zappy5.app/order-success
+https://example.com/order-success
 תודה על ההזמנה
 
 ### Product Detail
-https://pet-store-eae3361c.zappy5.app/product/:slug
+https://example.com/product/:slug
 פרטי המוצר - Pet store
 
 ### Category
-https://pet-store-eae3361c.zappy5.app/category/:slug
+https://example.com/category/:slug
 מוצרים - Pet store
 
 ### תודה - ההודעה התקבלה
-https://pet-store-eae3361c.zappy5.app/thank-you
+https://example.com/thank-you
 Pet store - תודה - ההודעה התקבלה
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://pet-store-eae3361c.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://pet-store-eae3361c.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://pet-store-eae3361c.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -101,8 +101,8 @@ Pet Store E-commerce
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://pet-store-eae3361c.zappy5.app/sitemap.xml
-- Robots: https://pet-store-eae3361c.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://pet-store-eae3361c.zappy5.app/llms-full.txt
-- Products (JSON): https://pet-store-eae3361c.zappy5.app/products.json
-- Products (Google Merchant RSS): https://pet-store-eae3361c.zappy5.app/product-feed.xml
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml

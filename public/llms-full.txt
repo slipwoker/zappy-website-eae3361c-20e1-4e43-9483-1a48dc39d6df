@@ -2,13 +2,13 @@
 
 An online pet store focused on selling pet-related products through an e-commerce platform. The business aims to provide pet owners with a convenient shopping experience for their animals' needs.
 
-Source: https://pet-store-eae3361c.zappy5.app
+Source: https://example.com
 
 ---
 
 ## גלו את חנות החיות המושלמת עם גורים מחכים — Pet store
 
-URL: https://pet-store-eae3361c.zappy5.app
+URL: https://example.com
 Description: מחפשים חנות חיות עם גורים למכירה? ב-Pet store תמצאו מגוון ענק של ציוד, מזון וגורים מקסימים. כנסו עכשיו לחוויית קנייה מפנקת עבור החבר הכי טוב שלכם!
 
 גלו את חנות החיות המושלמת עם גורים מחכים — Pet store
@@ -446,7 +446,7 @@ Description: מחפשים חנות חיות עם גורים למכירה? ב-Pet
 
 ## הכירו את הסיפור מאחורי החנות שכולם אוהבים — Pet store
 
-URL: https://pet-store-eae3361c.zappy5.app/about
+URL: https://example.com/about
 Description: ב-Pet store אנחנו מאמינים שחיות מחמד הן משפחה. גלו את החזון שלנו, הצוות המסור והמחויבות לרווחת בעלי חיים. הצטרפו למסע של אהבה ודאגה לחבר הפרוותי שלכם!
 
 הכירו את הסיפור מאחורי החנות שכולם אוהבים — Pet store
@@ -845,7 +845,7 @@ Description: ב-Pet store אנחנו מאמינים שחיות מחמד הן מ�
 
 ## הדרך הירוקה לדאוג לחבר הכי טוב שלכם — Pet store
 
-URL: https://pet-store-eae3361c.zappy5.app/eco-values
+URL: https://example.com/eco-values
 Description: ב-Pet store אכפת לנו מכדור הארץ. גלו את הערכים האקולוגיים שלנו: מוצרים מתכלים, אריזות ממוחזרות וצעצועים טבעיים. קנו באחריות והעניקו לחיית המחמד שלכם עולם ירוק יותר!
 
 הדרך הירוקה לדאוג לחבר הכי טוב שלכם — Pet store
@@ -1237,7 +1237,7 @@ Description: ב-Pet store אכפת לנו מכדור הארץ. גלו את הע�
 
 ## כל התשובות ששאלתם על גורים וציוד — Pet store
 
-URL: https://pet-store-eae3361c.zappy5.app/faq
+URL: https://example.com/faq
 Description: יש לכם שאלות על גורים, מזון או צעצועים? בדף השאלות הנפוצות של Pet store תמצאו מענה מהיר ומקצועי לכל מה שחשוב. היכנסו וגלו איך לפנק את חיית המחמד שלכם נכון!
 
 כל התשובות ששאלתם על גורים וציוד — Pet store
@@ -1626,7 +1626,7 @@ Description: יש לכם שאלות על גורים, מזון או צעצועי�
 
 ## דברו איתנו ונשמח אתכם בשירות מעל הכל — Pet store
 
-URL: https://pet-store-eae3361c.zappy5.app/contact
+URL: https://example.com/contact
 Description: רוצים להתייעץ, להזמין או סתם להגיד שלום? צרו קשר עם Pet store עוד היום! אנחנו זמינים בוואטסאפ, טלפון ומייל כדי לתת לכם את השירות הטוב ביותר. החיות שלכם יודו לכם!
 
 דברו איתנו ונשמח אתכם בשירות מעל הכל — Pet store
@@ -2113,7 +2113,7 @@ Description: רוצים להתייעץ, להזמין או סתם להגיד של
 
 ## מוצרים
 
-URL: https://pet-store-eae3361c.zappy5.app/products
+URL: https://example.com/products
 Description: המוצרים שלנו - Pet store
 
 מוצרים - Pet store
@@ -2523,7 +2523,7 @@ Description: המוצרים שלנו - Pet store
 
 ## עגלת קניות
 
-URL: https://pet-store-eae3361c.zappy5.app/cart
+URL: https://example.com/cart
 Description: עגלת הקניות שלך
 
 עגלת קניות - Pet store
@@ -2775,7 +2775,7 @@ Description: עגלת הקניות שלך
 
 ## תשלום
 
-URL: https://pet-store-eae3361c.zappy5.app/checkout
+URL: https://example.com/checkout
 Description: תשלום
 
 תשלום - Pet store
@@ -3213,7 +3213,7 @@ Description: תשלום
 
 ## התחברות
 
-URL: https://pet-store-eae3361c.zappy5.app/login
+URL: https://example.com/login
 Description: התחברות לקוחות
 
 התחברות - Pet store
@@ -3472,7 +3472,7 @@ Description: התחברות לקוחות
 
 ## החשבון שלי
 
-URL: https://pet-store-eae3361c.zappy5.app/account
+URL: https://example.com/account
 Description: החשבון שלי
 
 החשבון שלי - Pet store
@@ -3886,7 +3886,7 @@ Description: החשבון שלי
 
 ## ההזמנה התקבלה!
 
-URL: https://pet-store-eae3361c.zappy5.app/order-success
+URL: https://example.com/order-success
 Description: תודה על ההזמנה
 
 ההזמנה התקבלה! - Pet store
@@ -4162,7 +4162,7 @@ Description: תודה על ההזמנה
 
 ## מדיניות החזרות
 
-URL: https://pet-store-eae3361c.zappy5.app/return-policy
+URL: https://example.com/return-policy
 Description: מדיניות החזרת מוצרים - זכויותיכם להחזרה והחלפה בהתאם לחוק
 
 מדיניות החזרות - Pet store
@@ -4467,7 +4467,7 @@ Pet store מחויבת לשביעות רצון לקוחותיה. מדיניות 
 
 ## פרטי המוצר
 
-URL: https://pet-store-eae3361c.zappy5.app/product/:slug
+URL: https://example.com/product/:slug
 Description: פרטי המוצר - Pet store
 
 פרטי המוצר - Pet store
@@ -4721,7 +4721,7 @@ Description: פרטי המוצר - Pet store
 
 ## מוצרים
 
-URL: https://pet-store-eae3361c.zappy5.app/category/:slug
+URL: https://example.com/category/:slug
 Description: מוצרים - Pet store
 
 מוצרים - Pet store
@@ -4999,7 +4999,7 @@ Description: מוצרים - Pet store
 
 ## מדיניות פרטיות
 
-URL: https://pet-store-eae3361c.zappy5.app/privacy
+URL: https://example.com/privacy
 Description: מדיניות הפרטיות שלנו - כיצד אנו אוספים, משתמשים ומגנים על המידע שלכם
 
 מדיניות פרטיות
@@ -5279,7 +5279,7 @@ Pet store ("החברה", "אנו", "שלנו") מחויבת להגן על פרט
 
 ## הצהרת נגישות
 
-URL: https://pet-store-eae3361c.zappy5.app/accessibility
+URL: https://example.com/accessibility
 Description: הצהרת הנגישות שלנו - מחויבותנו לנגישות דיגיטלית
 
 הצהרת נגישות
@@ -5568,7 +5568,7 @@ Pet store מחויבת להנגיש את השירותים לכלל הציבור.
 
 ## תנאי שימוש
 
-URL: https://pet-store-eae3361c.zappy5.app/terms
+URL: https://example.com/terms
 Description: תנאי השימוש באתר - הזכויות והחובות של המשתמשים
 
 תנאי שימוש
@@ -5876,7 +5876,7 @@ Pet store מספקת Pet Store E-commerce דרך האתר. השירותים כפ
 
 ## תודה - ההודעה התקבלה
 
-URL: https://pet-store-eae3361c.zappy5.app/thank-you
+URL: https://example.com/thank-you
 Description: Pet store - תודה - ההודעה התקבלה
 
 תודה - ההודעה התקבלה
